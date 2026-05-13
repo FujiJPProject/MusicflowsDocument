@@ -1,5 +1,11 @@
 # 開発環境構築手順
 
+## 前提
+
+- 端末のOSはWindows11(Ubuntuをインストールできる環境さえあればよい)
+- Githubアカウントを持っていること
+- VSCodeはインストール済み
+
 ## 【1】WSLの構築
 
 1. Windows PowerShellを開き、下記コマンドを実行。
@@ -125,3 +131,21 @@ ssh -T git@github.com
 下記内容が表示されていればOK
 
 「Hi ユーザー名! You've successfully authenticated～.」
+
+## 【4】WSL連携
+
+1. VSCodeの拡張機能からWSLをインストール
+
+![WSL1](./images/WSL連携1.png)
+
+2. 「><」→「ディストリビューションを使用してWSLに接続」
+
+![WSL2](./images/WSL連携2.png)
+
+3. MusicBlocksBaseを選択
+
+![WSL3](./images/WSL連携3.png)
+
+4. 「表示」→「ターミナル」でコマンド操作可能
+
+![WSL4](./images/WSL連携4.png)
