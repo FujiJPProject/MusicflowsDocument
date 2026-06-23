@@ -7,3 +7,7 @@
 ## プロジェクト管理機能
 
 ![プロジェクト管理機能](./images/userflows.drawio.svg)
+
+## トラック管理
+
+![トラック管理](./images/userflows2.drawio.svg)
