@@ -20,3 +20,7 @@
 ## 楽器・音源機能
 
 ![楽器・音源機能](./images/userflows3.drawio.svg)
+
+## MIDI編集
+
+![MIDI編集](./images/userflows4.drawio.svg)
