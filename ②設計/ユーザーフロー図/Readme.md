@@ -28,3 +28,7 @@
 ## アレンジ機能
 
 ![アレンジ機能](./images/userflows5.drawio.svg)
+
+## 再生・トランスポート操作
+
+![再生・トランスポート操作](./images/userflows6.drawio.svg)
