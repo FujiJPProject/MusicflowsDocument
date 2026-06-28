@@ -24,3 +24,7 @@
 ## MIDI編集
 
 ![MIDI編集](./images/userflows4.drawio.svg)
+
+## アレンジ機能
+
+![アレンジ機能](./images/userflows5.drawio.svg)
