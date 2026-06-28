@@ -32,3 +32,7 @@
 ## 再生・トランスポート操作
 
 ![再生・トランスポート操作](./images/userflows6.drawio.svg)
+
+## ミキサー機能
+
+![ミキサー機能](./images/userflows7.drawio.svg)
