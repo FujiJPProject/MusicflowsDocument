@@ -36,3 +36,7 @@
 ## ミキサー機能
 
 ![ミキサー機能](./images/userflows7.drawio.svg)
+
+## コード・スケール支援
+
+![コード・スケール支援](./images/userflows8.drawio.svg)
