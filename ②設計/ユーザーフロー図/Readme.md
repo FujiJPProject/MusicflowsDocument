@@ -1,0 +1,42 @@
+## 作成方針
+
+- 機能設計書で記載した内容をもとにAIにユーザフロー図を作成させる。画面遷移図やデータモデルの作成元となる
+- 長方形：操作(制約があればそれも記載)
+- 矢印：操作の流れ(ユーザが行う操作の動機も記載)
+- 関連する操作ごとに色でグルーピング
+
+## 制約
+
+- 画面、データという用語は使用しない。あくまで着目するのは操作とそれにいたる動機
+
+## プロジェクト管理機能
+
+![プロジェクト管理機能](./images/userflows.drawio.svg)
+
+## トラック管理
+
+![トラック管理](./images/userflows2.drawio.svg)
+
+## 楽器・音源機能
+
+![楽器・音源機能](./images/userflows3.drawio.svg)
+
+## MIDI編集
+
+![MIDI編集](./images/userflows4.drawio.svg)
+
+## アレンジ機能
+
+![アレンジ機能](./images/userflows5.drawio.svg)
+
+## 再生・トランスポート操作
+
+![再生・トランスポート操作](./images/userflows6.drawio.svg)
+
+## ミキサー機能
+
+![ミキサー機能](./images/userflows7.drawio.svg)
+
+## コード・スケール支援
+
+![コード・スケール支援](./images/userflows8.drawio.svg)
